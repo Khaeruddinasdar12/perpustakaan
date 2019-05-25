@@ -1,0 +1,8 @@
+C:\Users\Asdar\Documents\SharpDevelop Projects\project_172296_khaeruddinasdar_h\latihan\bin\Debug\latihan.exe.config
+C:\Users\Asdar\Documents\SharpDevelop Projects\project_172296_khaeruddinasdar_h\latihan\bin\Debug\latihan.exe
+C:\Users\Asdar\Documents\SharpDevelop Projects\project_172296_khaeruddinasdar_h\latihan\bin\Debug\latihan.pdb
+C:\Users\Asdar\Documents\SharpDevelop Projects\project_172296_khaeruddinasdar_h\latihan\obj\Debug\latihan.csprojResolveAssemblyReference.cache
+C:\Users\Asdar\Documents\SharpDevelop Projects\project_172296_khaeruddinasdar_h\latihan\obj\Debug\latihan.MainForm.resources
+C:\Users\Asdar\Documents\SharpDevelop Projects\project_172296_khaeruddinasdar_h\latihan\obj\Debug\latihan.csproj.GenerateResource.Cache
+C:\Users\Asdar\Documents\SharpDevelop Projects\project_172296_khaeruddinasdar_h\latihan\obj\Debug\latihan.exe
+C:\Users\Asdar\Documents\SharpDevelop Projects\project_172296_khaeruddinasdar_h\latihan\obj\Debug\latihan.pdb
